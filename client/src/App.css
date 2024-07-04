@@ -156,3 +156,14 @@ button {
   outline: none;
   border: 5px solid var(--secondary-color);
 }
+
+.loading {
+  font-size: 100px;
+  color: #333;
+}
+
+.error {
+  color: red;
+  font-size: 16px;
+  margin-top: 10px;
+}
